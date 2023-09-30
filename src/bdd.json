@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pelota Rugby",
+        "imagen": "🏉",
+        "descripcion": " La pelota de rugby UAR es la compañera perfecta para los entrenamientos y partidos más exigentes. IMPORTANTE: El balón debe ser inflado con la presión que indica en el panel cercano a la válvula.",
+        "precio": 1500
+    },
+    {
+        "id": 2,
+        "nombre": "Pelota Volley",
+        "descripcion": "La pelota de vóleibol NIKE Nike HyperVolley 18P cuenta con un diseño reforzado que te mantiene jugando, ya sea con viento en la playa o con el sol abrasador en la cancha de arena.Con 18 paneles, está diseñada para que el giro en el balón sea más fácil de ver.",
+        "imagen": "🏐",
+        "precio": 2786
+    },
+    {
+        "id": 3,
+        "nombre": "Pelota de basquet",
+        "descripcion": "La pelota de basquet NIKE Everyday Playground Next Nature presenta un patrón rugoso texturizado sobre goma duradera capaz de soportar el desgaste natural de las canchas al aire libre.Goma duradera para aguantar partido tras partido.Patrón rugoso texturizado para un mayor agarre.Canales profundos entre los paneles para mejorar la alineación con la mano y el control de la pelota.",
+        "imagen": "🏀",
+        "precio": 5632
+    },
+    {
+        "id": 4,
+        "nombre": "Pelota futbol Americano",
+        "descripcion": "Fabricado con un material compuesto de alto rendimiento, este balón de fútbol ofrece la combinación ideal de durabilidad, agarre y rendimiento digna del logotipo oficial de la NFL y de los mejores jugadores del juego, sea cual sea la liga en la que jueguen",
+        "imagen": "🏈",
+        "precio": 9178
+    },
+    {
+        "id": 5,
+        "nombre": "Pelota futbol",
+        "descripcion": "la Pelota Nike Pitch Team. Tiene una cubierta suave y duradera que no se deforma y una cámara de aire de goma para mantener la presión del aire y permitirte darlo todo durante más tiempo." ,
+        "imagen": "⚽",
+        "precio": 3512
+    },
+    {
+        "id": 6,
+        "nombre": "Pelota Beisbol",
+        "descripcion":" La pelota de beisbol RAWLINGS. Cuenta con una circunferencia  de 9 a 9+1/4 pulgadas (229-235 mm) equivalente a un diámetro de 73 a 75 mm y su peso es de 5 a 5+1/4 onzas (142- 149 g)" ,
+        "imagen": "⚾",
+        "precio": 32435
+    },
+    {
+        "id": 7,
+        "nombre": "Guantes",
+        "descripcion":" los Guantes adidas Hybrid 25. Hechos con una duradera parte exterior sintética y relleno de espuma para amortiguar el impacto y garantizar la velocidad. La malla de su palma y tecnología AEROREADY mantienen la frescura durante todo el tiempo que los lleves puestos." ,
+        "imagen": "🥊",
+        "precio": 23133
+    },
+    {
+        "id": 8,
+        "nombre": "Raqueta ",
+        "descripcion": " La Raqueta Wilson Federer 23' inspirada en el varias veces campeón Roger Federer, cuenta con un marco que ofrece una potencia liviana y estabilidad para los jugadores más chicos. Su Construcción ligera de aleación AirLite les da mayor durabilidad en el tiempo y mejor agarre " ,
+        "imagen": "🎾",
+        "precio": 31241
+    },
+    {
+        "id": 9,
+        "nombre": "palo Hockey",
+        "descripcion":" El Palo De Hockey Osaka Low Bowes es un todo terreno con una excelente capacidad de arrastre. El punto de arco máximo se encuentra a 200 mm de la cabeza, con una altura máxima de 24 mm. A pesar de estas cifras tan agresivas, el perfil es modesto y se adapta al estilo moderno de los jugadores de hockey . Este diseño se centra en el golpeo (engañoso), el arrastre y el golpeo potente." ,
+        "imagen": "🏒",
+        "precio": 1234
+    },
+    {
+        "id": 10,
+        "nombre": "dobok",
+        "descripcion":"Mooto Korea Taekwondo BS4.5 Uniforme básico Color blanco BK Cuello en V MMA Artes marciales Equipo de demostración de karate Gimnasio Escuela Academia" ,
+        "imagen": "🥋",
+        "precio": 9999
+    }
+]

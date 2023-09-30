@@ -1,0 +1,207 @@
+*{
+    background-color: grey;
+    
+}
+.p-2{
+  padding: 0.5rem;
+}
+.logo{
+    font-size: 1.5rem;
+}
+
+.center{
+    text-align: center !important; 
+}
+
+.red-button{
+  background:linear-gradient(to bottom, #f24537 5%, #c62d1f 100%) !important;
+	background-color:#f24537 !important;
+}
+.pt-2{
+    padding-top: 20px;
+}
+
+.number-cart{
+  font-size: 1.2rem;
+  background-color: yellowgreen;
+  width: 20px;
+  text-align: center;
+  border-radius: 50%;
+  justify-content: center;
+}
+.pb-2{
+  padding-bottom: 1rem;
+}
+.black{
+    color: black !important;
+}
+
+.white{
+    color: white;
+}
+
+.md-2{
+    font-size: 1.5rem;
+}
+
+.flex{
+    display: inline-block;
+}
+
+.asd{
+    background-color: grey !important;
+}
+
+.css-1a7q9t8 {
+    justify-content: center ;
+}
+
+.form-register {
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 1rem;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+    border-radius: 20px;
+  }
+  
+  .controls {
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+    border-radius: 10px;
+  }
+  
+  .form-register a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  .form-register .botons {
+    width: 100%;
+    background: #1f53c5;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 20px;
+    border-radius: 10px;
+  }
+  .form-register .botons:hover{
+    background: darkblue;
+    transition: 1s all;
+  }
+
+  .form-title{
+    background: #24303c ;
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+
+  .card-error {
+    justify-content: center;
+    width: 50%;
+    text-align: center;
+    display: inline-block;
+    background-color: whitesmoke !important;
+    color: rgba(139, 0, 0, 0.772);
+    border: 1px solid darkred;
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 10px 10px 6px  lightblue;
+    margin-bottom: 30px;
+  }
+
+  .fondo-blanco{
+    background-color: whitesmoke !important;
+  }
+
+  .pepes{
+    display: table;
+    width: 100%;
+  }
+
+  td, th{
+    border-bottom: 0.1rem solid #e1e1e1;
+    padding: 1.2rem 1.5rem;
+    text-align: left;
+    width: 20%;
+  }
+
+  .tamaño{
+    max-width: 80rem;
+  }
+
+  .btn-red{
+    font-size: 15px;
+    color: #fff;
+    background-color: #d62828 !important;
+    padding: 10px 30px;
+    border: solid #d62828 2px;
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    border-radius: 50px;
+    transition : 1000ms;
+    transform: translateY(0);
+    }
+    
+    .btn-red:hover{
+    
+    transition : 1000ms;
+    padding: 10px 30px;
+    transform : translateY(-0px);
+    background-color: #fff !important;
+    color: #d62828;
+    border: solid 2px #d62828;
+    }
+
+    .p-button{
+      padding-left: 5.5rem;
+      display: inline-block;
+      background: #24303c;
+      padding-bottom: 10px;
+    }
+
+    .background-form{
+      background: #24303c;
+    }
+
+    .btn-green{
+      font-size: 15px;
+      font-weight: bold;
+      color: #fff;
+      background-color: #1aff00 !important;
+      padding: 10px 30px;
+      border: solid #00cc4e 2px;
+      box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+      border-radius: 50px;
+      transition : 1000ms;
+      transform: translateY(0);
+      }
+      
+      .btn-green:hover{
+      
+      transition : 1000ms;
+      padding: 10px 30px;
+      transform : translateY(-¿0px);
+      background-color: #fff !important;
+      color: green;
+      border: solid 2px #00cc4e;
+      }
+
+      .swal2-title, .swal2-icon, .swal2-icon-content, .swal2-actions, .swal2-html-container, .swal2-success-ring{
+        background: #ffff;
+      }
+      
+      .chakra-card__body {
+        text-align: center !important;
+        justify-content: center !important;
+      }
+    
