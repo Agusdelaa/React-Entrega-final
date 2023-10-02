@@ -49,6 +49,7 @@ export const CartContextProvider = ({children}) => {
 
 export default CartContextProvider
 
+
 // const addItem = (item, quantity) => {
 //   if(!isInCart(item.id)) {
 //     setCart(prev => [...prev, {...item , quantity}])
